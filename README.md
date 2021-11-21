@@ -1,2 +1,2 @@
 # HabEngine
-A Custom Game engine written by C++
+A Custom Game engine written in C++
